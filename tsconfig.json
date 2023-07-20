@@ -1,5 +1,5 @@
 {
-  "include": ["*./src/**/*"],
+  "include": ["./src/**/*"],
   "exclude": ["node_modules"],
   /* tsconfig.json, at top level alongside include, exclude, and compilerOptions*/
   "ts-node": {
